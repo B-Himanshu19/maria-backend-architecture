@@ -1,4 +1,4 @@
-# Maria Project 🎉
+# Maria AI
 
 ## Features 🚀
 - Simple and modular design
