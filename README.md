@@ -1,25 +1,38 @@
-# Maria AI
+# Maria - Backend Architecture Project
 
-## Features 🚀
-- Simple and modular design
-- Customizable components
-- Easy integration with existing setups
+## 🚀 Overview
 
-## Working ⚙️
-- Handles user requests efficiently
-- Retrieves and processes data quickly
-- Focuses on clear architecture and clean code
+Maria is a backend system designed with clean architecture principles, focusing on modularity, scalability, and maintainability. This project showcases the design patterns, modular structures, and backend logic handling that are crucial in building highly reliable systems at scale — perfectly aligned with real-world large-scale payment systems and distributed architectures.
 
-## Getting Started 🏁
-1. Clone this repository
-2. Install the dependencies by running `npm install`
-3. Start the project with `npm start`
-4. Open your browser and navigate to the provided URL
+## 🛠️ Key Features
 
-## License 📝
+- Clean and modular backend architecture
+- Efficient request handling and data retrieval pipelines
+- Separation of concerns using layered architecture
+- Asynchronous operations for better performance
+- Easily extensible for new modules and integrations
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## 💡 Tech Stack
 
-## Contact 📫
+- **Language:** JavaScript (Node.js), Python
+- **Frontend:** HTML, CSS, JavaScript (basic UI for demonstration)
+- **Backend:** Node.js
+- **Package Management:** npm
+- **Version Control:** Git
 
-For any questions or contributions, please contact [bharathajjarapu@duck.com](mailto:bharathajjarapu@duck.com).
+## 🔍 System Design Highlights
+
+- Backend-first design for data-centric applications
+- Clean separation between business logic, API routes, and data layers
+- Demonstrates how scalable APIs can be designed and extended
+
+## 📂 Project Structure
+
+```bash
+.
+├── index.html
+├── main.js
+├── llm.py
+├── package.json
+├── package-lock.json
+└── README.md
