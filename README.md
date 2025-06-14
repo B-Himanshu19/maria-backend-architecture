@@ -36,3 +36,46 @@ Maria is a backend system designed with clean architecture principles, focusing 
 ├── package.json
 ├── package-lock.json
 └── README.md
+
+🔧 Getting Started
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/B-Himanshu19/maria-backend-architecture.git
+cd maria-backend-architecture
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+Start the backend server:
+
+bash
+Copy
+Edit
+npm start
+Open your browser and navigate to the provided local URL.
+
+🏗️ Deployment Ready
+This project structure can be easily extended to:
+
+API Gateway integrations
+
+Microservices architecture
+
+Dockerized deployment
+
+Database integrations (SQL/NoSQL)
+
+🔒 License
+This repository is intended for personal demonstration purposes for system design and backend architecture principles.
+
+👨‍💻 Author
+Himanshu Bhatraj
+
+Email: himanshu.b1902@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/himanshubhatraj/
